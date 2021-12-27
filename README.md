@@ -1,29 +1,20 @@
 # app-aspire
 
-## Project setup
+
+## For running the project locally
+
+### Installation
+You need to have installed on your system If not, you can install it using 
+```
+npm install --global yarn
+```
+Then do,
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### For starting the server
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
